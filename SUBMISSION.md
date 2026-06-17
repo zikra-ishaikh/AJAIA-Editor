@@ -16,7 +16,8 @@ This file lists the deliverables and testing coordinates for the **Ajaia Editor*
 ---
 
 ## 🌐 Live Product Coordinates
-- **Deployment URL**: [https://ajaia-editor.vercel.app](https://ajaia-editor.vercel.app) *(Update with your Vercel deployment link)*
+- **Deployment URL**: [https://ajaia-editor-gamma.vercel.app/](https://ajaia-editor-gamma.vercel.app/)
+
 - **Test Accounts**:
   - **User A (Owner)**: `user-a@example.com` (Password: `password123`)
   - **User B (Shared)**: `user-b@example.com` (Password: `password123`)
